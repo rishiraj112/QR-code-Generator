@@ -45,7 +45,7 @@ margin-bottom: 8px;
     font-weight: 500;
 }
 #imgBox{
-    width: 200px;
+    width: 300px;
     border-radius: 5px;
     max-height: 0;
     overflow: hidden;
@@ -59,7 +59,7 @@ margin-bottom: 8px;
 #imgBox.show-img{
     max-height: 300px;
     margin: 10px auto;
-    border: 1px solid #d1d1d1;
+    border: 3px solid #7f0000;
 }
 .error{
     animation: shake 0.1s linear 10;
