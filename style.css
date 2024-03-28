@@ -9,7 +9,7 @@ body{
         background-image: url('background.jpg');
         background-size: cover; 
         background-repeat: no-repeat;
-        background-position: fit;    
+        background-position: fill;    
     }
 .container {
 width: 400px;
